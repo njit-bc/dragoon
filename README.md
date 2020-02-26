@@ -1,5 +1,5 @@
-# Dragoon
-Dragoon
+# Dragoon: Private Decentralized HITs Made Practical
+A fair, efficient, and private decentralized protocol for crowdsourcing of human knowledge
 
 ## A deployed instance at Ropsten network (over the G1 subgroup of alt_bn 128 ec)
 
