@@ -1,7 +1,7 @@
 # Dragoon: Private Decentralized HITs Made Practical
 A fair, efficient, and private decentralized protocol for crowdsourcing of human knowledge
 
-## A deployed instance at Ropsten network (over the G1 subgroup of alt_bn 128 ec)
+## A deployed instance at Ropsten network
 
 https://ropsten.etherscan.io/address/0x5481b096c78c8e09c1bfbf694e934637f7d66698
 
