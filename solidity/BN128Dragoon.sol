@@ -16,7 +16,7 @@ contract RegistrationAuthority {
 }
 
 
-contract SwiftLancer{
+contract Dragoon{
         
     using BN128 for *;
 
@@ -37,7 +37,7 @@ contract SwiftLancer{
     
     address public requester;
     
-    //SwiftLancerParameters parameters;
+    //DragoonParameters parameters;
     RegistrationAuthority ra;
     
     // answers of workers
@@ -67,7 +67,7 @@ contract SwiftLancer{
     uint public workers_counter = 0;
     
     constructor () public{
-        //parameters = SwiftLancerParameters(0x7b3dc9590d8ecfd98adfb7490d6a51a93e91658d);
+        //parameters = DragoonParameters(0x7b3dc9590d8ecfd98adfb7490d6a51a93e91658d);
         ra = RegistrationAuthority(0x8884A1aca7D2F031d674994232c10Ba64fC33903);
         requester = msg.sender;
     }
