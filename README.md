@@ -1,4 +1,4 @@
-# On July 7th, 2020, we identify that there is a minor implementation bug (i.e., the on-chain veirifer and the off-chain prover for correct decryption are incorrectly instantiated). Though the bug violates security, the fix of it could incur merely small overhead. Patch is under working and will be updated soon.
+# On July 7th, 2020, we identify that there is a minor implementation bug (i.e., the on-chain veirifer and the off-chain prover for correct decryption are incorrectly instantiated). Though the bug violates security, the fix of it could incur merely small overhead, so the cost estimiations down below could still be relevant. Patch is under working and will be updated.
 
 
 =========================
