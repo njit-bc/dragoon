@@ -1,3 +1,9 @@
+# On July 7th, 2020, we identify that there is a minor implementation bug (i.e., the on-chain veirifer and the off-chain prover for correct decryption). Though the bug violates security, the fix of it could incur small overhead. The fix is under working and will be updated soon.
+
+
+=========================
+
+
 # Dragoon: Private Decentralized HITs Made Practical
 A fair, efficient, and private decentralized protocol for crowdsourcing of human knowledge
 
